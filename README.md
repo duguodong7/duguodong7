@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Contact
-email: duguodong7@gmail.com
+💬 email: duguodong7@gmail.com 
 Previous at @HITSZ, @NUS, @UESTC
 
 ![Guodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=duguodong7&show_icons=true&theme=solarized-dark)
-
+<!--
 <img src="https://user-images.githubusercontent.com/26020510/196132247-3f5793da-0571-48ab-856a-28fdb591640c.png" width="400" height="400"><img src="https://user-images.githubusercontent.com/26020510/196137974-ae9d64b6-4aa4-45a5-b621-7a370bc4d562.png" width="400" height="400">
+-->
