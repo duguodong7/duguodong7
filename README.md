@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Contact
 💬 email: duguodong7@gmail.com 
+
 Previous at @HITSZ, @NUS, @UESTC
 
 ![Guodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=duguodong7&show_icons=true&theme=solarized-dark)
